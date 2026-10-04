@@ -1,0 +1,31 @@
+continent,domain,n_studies,n_total,pct
+Africa,Academic Environment,9,44,20.454545454545457
+Africa,Physical Health & Lifestyle,13,44,29.545454545454547
+Africa,Psychological Resources,11,44,25
+Africa,Psychological Symptoms & Distress,33,44,75
+Africa,Social Support,6,44,13.636363636363635
+Asia,Academic Environment,67,254,26.37795275590551
+Asia,Physical Health & Lifestyle,84,254,33.07086614173229
+Asia,Psychological Resources,78,254,30.708661417322837
+Asia,Psychological Symptoms & Distress,201,254,79.13385826771653
+Asia,Social Support,31,254,12.204724409448819
+Europe,Academic Environment,43,107,40.18691588785047
+Europe,Physical Health & Lifestyle,40,107,37.38317757009346
+Europe,Psychological Resources,32,107,29.906542056074763
+Europe,Psychological Symptoms & Distress,78,107,72.89719626168224
+Europe,Social Support,10,107,9.345794392523365
+North America,Academic Environment,30,78,38.46153846153847
+North America,Physical Health & Lifestyle,22,78,28.205128205128204
+North America,Psychological Resources,32,78,41.02564102564102
+North America,Psychological Symptoms & Distress,60,78,76.92307692307693
+North America,Social Support,18,78,23.076923076923077
+Oceania,Academic Environment,5,12,41.66666666666667
+Oceania,Physical Health & Lifestyle,4,12,33.33333333333333
+Oceania,Psychological Resources,8,12,66.66666666666666
+Oceania,Psychological Symptoms & Distress,7,12,58.333333333333336
+Oceania,Social Support,3,12,25
+South America,Academic Environment,13,46,28.26086956521739
+South America,Physical Health & Lifestyle,19,46,41.30434782608695
+South America,Psychological Resources,15,46,32.608695652173914
+South America,Psychological Symptoms & Distress,41,46,89.13043478260869
+South America,Social Support,1,46,2.1739130434782608

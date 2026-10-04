@@ -1,0 +1,15 @@
+[1] 541  49
+[1] TRUE
+# A tibble: 1 × 2
+  scale_acronym     n
+  <chr>         <int>
+1 WGQ               1
+# A tibble: 0 × 2
+# ℹ 2 variables: scale_acronym <chr>, n <int>
+character(0)
+character(0)
+[1] 0
+# A tibble: 0 × 1
+# ℹ 1 variable: country <chr>
+character(0)
+[1] 85

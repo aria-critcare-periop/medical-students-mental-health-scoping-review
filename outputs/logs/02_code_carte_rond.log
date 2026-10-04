@@ -1,0 +1,98 @@
+# A tibble: 85 × 2
+   country_en               n_studies
+   <chr>                        <int>
+ 1 Australia                        9
+ 2 Austria                          2
+ 3 Bahrain                          1
+ 4 Bangladesh                       5
+ 5 Belarus                          2
+ 6 Bosnia and Herz.                 1
+ 7 Brazil                          34
+ 8 Canada                           8
+ 9 Chile                            3
+10 China                           58
+11 Colombia                         1
+12 Croatia                          2
+13 Cyprus                           2
+14 Czechia                          4
+15 Denmark                          1
+16 Egypt                            6
+17 Ethiopia                         5
+18 France                           9
+19 Georgia                          1
+20 Germany                         16
+21 Greece                           4
+22 Hong Kong                        1
+23 Hungary                          8
+24 India                           36
+25 Indonesia                        8
+26 Iran                            17
+27 Iraq                             2
+28 Ireland                          3
+29 Israel                           3
+30 Italy                            8
+31 Japan                            7
+32 Jordan                           7
+33 Kazakhstan                       1
+34 Kenya                            1
+35 Latvia                           1
+36 Lebanon                          4
+37 Libya                            2
+38 Lithuania                        1
+39 Malaysia                        13
+40 Mexico                          13
+41 Morocco                          4
+42 Namibia                          1
+43 Nepal                            8
+44 Netherlands                      3
+45 New Zealand                      4
+46 Nigeria                         12
+47 Norway                           1
+48 Oman                             1
+49 Pakistan                        13
+50 Palestine                        4
+51 Paraguay                         1
+52 Peru                             9
+53 Poland                           5
+54 Portugal                         9
+55 Puerto Rico                      1
+56 Qatar                            1
+57 Romania                          3
+58 Russia                           2
+59 Rwanda                           1
+60 Saudi Arabia                    36
+61 Serbia                           6
+62 Slovakia                         1
+63 Slovenia                         1
+64 Somalia                          1
+65 South Africa                     5
+66 South Korea                     13
+67 Spain                            5
+68 Sri Lanka                        1
+69 Sudan                            5
+70 Sweden                           2
+71 Switzerland                      6
+72 Syria                            4
+73 Tanzania                         1
+74 Thailand                        11
+75 Trinidad and Tobago              1
+76 Tunisia                          2
+77 Turkey                           7
+78 Uganda                           2
+79 Ukraine                          2
+80 United Arab Emirates             1
+81 United Kingdom                   8
+82 United States of America        56
+83 Venezuela                        1
+84 Vietnam                          3
+85 Yemen                            1
+character(0)
+# A tibble: 6 × 2
+  continent     total_studies
+  <chr>                 <int>
+1 Asia                    268
+2 Europe                  118
+3 North America            79
+4 South America            49
+5 Africa                   48
+6 Oceania                  13

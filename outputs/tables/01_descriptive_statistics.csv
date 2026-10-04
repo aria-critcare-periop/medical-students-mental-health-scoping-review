@@ -1,0 +1,61 @@
+section,item,n,N,text
+Characteristics,Included studies,541,NA,541
+Characteristics,Total number of students,463855,NA,"463,855"
+Characteristics,"Students per study, median [IQR]",369,NA,369 [211-681]
+Characteristics,Countries/territories represented (UK nations grouped),85,NA,85
+Characteristics,  of which UN member/observer states,83,NA,83
+Characteristics,"  of which territories (Hong Kong, Puerto Rico)",2,NA,2
+Characteristics,UN member/observer states not represented (out of 195),112,NA,112
+Characteristics,Continents represented,6,NA,6
+Characteristics,Cross-sectional (longitudinal = 0),458,541,458/541 (85%)
+Characteristics,Longitudinal,83,541,83/541 (15%)
+Characteristics,Observational (interventional = 0),495,541,495/541 (91%)
+Characteristics,Interventional,46,541,46/541 (9%)
+Characteristics,Single-centre (multicenter = 0),376,541,376/541 (70%)
+Characteristics,Multicentre,165,541,165/541 (30%)
+Characteristics,Single-country (n_countries = 1),526,541,526/541 (97%)
+Characteristics,International (n_countries > 1),15,541,15/541 (3%)
+Geography,Top 5 country: China,56,541,56/541 (10%)
+Geography,Top 5 country: United States,55,541,55/541 (10%)
+Geography,Top 5 country: Saudi Arabia,35,541,35/541 (6%)
+Geography,Top 5 country: India,33,541,33/541 (6%)
+Geography,Top 5 country: Brazil,33,541,33/541 (6%)
+Geography,Five leading countries together,212,541,212/541 (39%)
+Geography,Remaining studies (all other countries and multi-country studies),329,541,329/541 (61%)
+Geography,Number of remaining countries/territories,80,NA,80
+Geography,Continent (first listed country): Asia,254,541,254/541 (47%)
+Geography,Continent (first listed country): Europe,107,541,107/541 (20%)
+Geography,Continent (first listed country): North America,78,541,78/541 (14%)
+Geography,Continent (first listed country): South America,46,541,46/541 (9%)
+Geography,Continent (first listed country): Africa,44,541,44/541 (8%)
+Geography,Continent (first listed country): Oceania,12,541,12/541 (2%)
+Temporal,Published 1980-1999,4,541,4/541 (0.7%)
+Temporal,Published 2000-2019,115,541,115/541 (21%)
+Temporal,Published from 2020 onwards,422,541,422/541 (78%)
+Temporal,Conducted during the COVID-19 pandemic (covid = 1),131,541,131/541 (24%)
+Temporal,First / last publication year,1980,NA,1980-2025
+Instruments,Distinct instruments used in the included studies,417,NA,417
+Instruments,Instruments listed in the scale catalogue,419,NA,419
+Instruments,"Items per study, median [IQR]",35,NA,35 [21-61]
+Instruments,"Items per study, range",306,NA,3-306
+Instruments,20 items or fewer,127,541,127/541 (23%)
+Instruments,21 to 99 items,365,541,365/541 (67%)
+Instruments,100 items or more,49,541,49/541 (9%)
+Instruments,1 instrument,132,541,132/541 (24%)
+Instruments,2 instruments,134,541,134/541 (25%)
+Instruments,3 instruments,140,541,140/541 (26%)
+Instruments,4 to 6 instruments,116,541,116/541 (21%)
+Instruments,7 or more instruments,19,541,19/541 (4%)
+Instruments,"Instruments per study, median [IQR]",3,NA,3 [2-3]
+Instruments,Top-20 scales in domain: Psychological Symptoms & Distress,10,20,10/20 (50%)
+Instruments,Top-20 scales in domain: Physical Health & Lifestyle,5,20,5/20 (25%)
+Instruments,Top-20 scales in domain: Psychological Resources,3,20,3/20 (15%)
+Instruments,Top-20 scales in domain: Academic Environment,2,20,2/20 (10%)
+Equity,Sex,379,541,379/541 (70%)
+Equity,Race or ethnicity,49,541,49/541 (9%)
+Equity,Socioeconomic status,63,541,63/541 (12%)
+Equity,Gender identity,15,541,15/541 (3%)
+Equity,Sexual orientation,15,541,15/541 (3%)
+Equity,Gender identity or sexual orientation,21,541,21/541 (4%)
+Equity,No equity-related variable used,144,541,144/541 (27%)
+Equity,Two or more equity-related variables used,99,541,99/541 (18%)

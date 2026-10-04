@@ -1,0 +1,10 @@
+# A tibble: 7 × 4
+  Category                                    IRR_per_year  p_trend p_trend_fmt
+  <chr>                                              <dbl>    <dbl> <chr>      
+1 Total Studies                                       1.23 1.28e-92 <0.001     
+2 Multicenter Studies                                 1.29 2.92e-33 <0.001     
+3 International Studies                               1.25 4.85e- 4 <0.001     
+4 Sex Bias Assessment                                 1.24 2.33e-67 <0.001     
+5 Racial Bias Assessment                              1.14 2.04e- 6 <0.001     
+6 Gender & Sexual Orientation Bias Assessment         1.37 8.88e- 6 <0.001     
+7 Socioeconomic Bias Assessment                       1.31 6.55e-14 <0.001     
